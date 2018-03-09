@@ -1,0 +1,14 @@
+.content{
+	position: relative;
+	display: inline-block;
+}
+.btn-picker{
+	background: url(picker.png) no-repeat;
+    background-size: 82%;
+    background-position: center;
+    width: .2rem;
+    height: .22rem;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
