@@ -1,4 +1,4 @@
-# Vue-Example:前端核心基础练习基地
+# Web-Example:前端核心基础练习基地
 
 ### 作者:心叶
 ### 邮箱:yelloxing@gmail.com
