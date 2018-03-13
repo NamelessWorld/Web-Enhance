@@ -12,3 +12,17 @@
     right: 0;
     top: 0;
 }
+.cursor{
+	width: 1.2rem;
+}
+.cursor>div{
+	display: inline-block;
+}
+
+.monthlist{
+	width: 1.2rem;
+}
+.monthlist>div{
+	width: .4rem;
+	display: inline-block;
+}
